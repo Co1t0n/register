@@ -1,0 +1,17 @@
+{
+  "repo": "",
+
+  "owner": {
+    "username": "",
+    "email": ""
+  },
+
+  "target": {
+    "record-type": {
+       "name": "", 
+       "value": ""
+     }
+  },
+
+  "proxied": false
+}
